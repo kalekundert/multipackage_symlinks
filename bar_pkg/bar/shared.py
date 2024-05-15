@@ -1,0 +1,1 @@
+../../foo_pkg/foo/shared.py
